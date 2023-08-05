@@ -1,0 +1,4 @@
+Dependencies for Project 'memory', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32f303x8.s)(0x5B3279B0)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F3xx--pd "__UVISION_VERSION SETA 525"--list .\listings\startup_stm32f303x8.lst --xref -o .\objects\startup_stm32f303x8.o --depend .\objects\startup_stm32f303x8.d)
+F (.\main.c)(0x5B32A1D7)(--c99 --gnu -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F3xx-D__UVISION_VERSION="525" -DSTM32F303x8-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599FA01E)
